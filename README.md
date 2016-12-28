@@ -272,7 +272,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     - [ ] [Get That Job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
         - all the things he mentions that you need to know are listed below
     - [ ] _(very dated)_ [How To Get A Job At Google, Interview Questions, Hiring Process](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
-    - [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+    - [x] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
 - [ ] Prep Courses:
     - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
